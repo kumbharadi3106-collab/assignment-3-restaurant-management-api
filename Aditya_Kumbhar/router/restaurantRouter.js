@@ -1,7 +1,6 @@
 const express = require("express");
 const Restaurant = require("../models/module");
-const auth = require("../middleware/authMiddleware");
-
+const auth = require("../middleware/authmiddleware");
 const router = express.Router();
 
 // Get all restaurants
