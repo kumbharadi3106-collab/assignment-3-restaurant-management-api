@@ -245,6 +245,8 @@ Content-Type: application/json
 | **Auth Guard**   | `middleware/authmiddleware.js` | Validates JWT from the `Authorization` header            |
 
 ---
+Live Link:
+https://assignment-3-restaurant-management-api-uh2x.onrender.com/
 
 ## 📄 License
 
